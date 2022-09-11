@@ -1,0 +1,11 @@
+<RCC>
+    <qresource>
+	<file>images/logo.png</file>
+	<file>color.xml</file>
+	<file>settings.txt</file>
+	<file>images/NewFile.png</file>
+	<file>images/OpenFile.png</file>
+	<file>images/SaveFile.jpg</file>
+	<file>images/SaveAllFile.png</file>
+    </qresource>
+</RCC>
